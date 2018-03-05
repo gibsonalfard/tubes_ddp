@@ -1,0 +1,40 @@
+			
+			-  -  -  9  -  - 10  -  - 11  -  - 12  -  - 13  -  - 14  -  - 15  -  -  -
+
+                        /     |  7  |  |  7  |  |  7  |  |  7  |  |  7  |  |  7  |  |  7  |     \
+
+                        |  |  0  |                          0                          |  0  |  |
+
+                        \     |  7  |  |  7  |  |  7  |  |  7  |  |  7  |  |  7  |  |  7  |     /
+
+                        -  -  -  7  -  -  6  -  -  5  -  -  4  -  -  3  -  -  2  -  -  1  -  -  -
+			
+						 Tentang Game Congklak
+			----------------------------------------------------------------------------	
+			Game Congklak ini dibuat menggunakan bahasa C, game ini didasarkan dari game
+			rakyat sebenarnya dengan nama yang sama, game congklak ini merupakan tugas 
+			besar mata kuliah Dasar-Dasar Pemrograman (DDP). Game ini dibuat oleh :
+				
+					1. Anggita Intan Fania	-	171524004
+					2. Hamzah Prasetio U.	-	171524011
+					3. Ilham Gibran A.M.	-	171524012
+
+			-----------------------------------------------------------------------------
+			;
+			-------------------------------------------------------------------------------
+					      Tata Cara Main Game Congklak
+			-------------------------------------------------------------------------------
+			1. Pertama, pemain akan masuk ke tampilan menu
+			2. Pilih 1 untuk bermain congklak
+			3. Lalu, pemain akan melakukan suit dengan komputer untuk menentukan siapa
+			   yang main duluan.
+			4. Saat giliran pemain, pemain dapat memilih lubang dari 1 - 7, pemain tidak
+			   Dapat memilih lubang yang kosong.
+			5. Permainan akan berakhir saat biji pemain jatuh di lubang kosong, jika lubang
+			   tersebut ada di daerah sendiri, pemain dapat menembak lubang musuh,
+			   jika lubang musuh berisi biji.
+			6. Permainan akan terus berlangsung, sampai tidak tersisa satupun biji di arena
+				
+						 Selamat Bermain Congklak 
+
+			-------------------------------------------------------------------------------
